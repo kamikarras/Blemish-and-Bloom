@@ -21,5 +21,9 @@ The game design and development process for Blemish and Bloom started at PNCA as
   - java
   - android studio
   - Adobe Illustrator
+  
+
+  
 ## Author
 Kami Karras is designer in Portland that fell in love with code while working on her thesis for PNCA. With an artist heart and technical mind, Kami loves to combine her design and coding skills to create beautiful projects.
+<img src="art/Kami-and-Zach.png" width="50%"> 
