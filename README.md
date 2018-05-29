@@ -1,5 +1,5 @@
 # Blemish and Bloom
-<img src="title.png" width="40%" style="inline">
+<img src="art/title.png" width="40%" style="inline">
 
 ## Table of contents
   - about
